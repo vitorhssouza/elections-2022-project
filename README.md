@@ -1,2 +1,2 @@
-# elections-2022-project
+# Elections-2022-project
 elections 2022 project
